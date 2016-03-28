@@ -1,0 +1,19 @@
+//
+//  AppDelegate.h
+//  CTMVVM
+//
+//  Created by AllenQin on 16/3/25.
+//  Copyright © 2016年 AllenQin. All rights reserved.
+//
+
+#ifndef MVVM_PrefixHeader_pch
+#define MVVM_PrefixHeader_pch
+
+#import "AFNetworking.h"
+#import "UIKit+AFNetworking.h"
+#import "Config.h"
+#import "NetRequestClass.h"
+#import "SVProgressHUD.h"
+#import "Masonry.h"
+
+#endif
